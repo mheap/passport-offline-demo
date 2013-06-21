@@ -1,0 +1,21 @@
+{
+  "name": "passport-offline-demo",
+  "version": "0.0.1",
+  "description": "Demo site for passport-offline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "passportjs",
+    "authentication"
+  ],
+  "author": "Michael Heap <m@michaelheap.com>",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.2.6",
+    "passport": "~0.1.17",
+    "passport-offline": "~0.1.0"
+  }
+}
